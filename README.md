@@ -98,7 +98,7 @@ Modify the file group_info.txt by placing your group number followed by group me
 
 Moreover, you will need to discuss with other members in your group and complete a group agreement document following the given template (GroupAgreement.docx).
 
-The files must be updated and pushed to the repository by Monday Sept 29th 2025. After that time, you should not make any changes to those files.
+The files should be updated and pushed to the repository by Monday Oct 6th 2025. After that time, you should not make any changes to those files.
 
 ### Task-1: Improve the SQL grammar for generation-based fuzzing
 
