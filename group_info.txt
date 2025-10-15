@@ -1,9 +1,9 @@
 Group Number:
 
 Member-1:
-- Name:
-- Student ID:
-- Email:
+- Name: Ronit Gandhi
+- Student ID: 1692736
+- Email: ronit.gandhi@student.unimelb.edu.au
 
 Member-2:
 - Name:
